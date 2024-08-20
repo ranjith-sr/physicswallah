@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhysicsWallah</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="species">Species</string>
+    <string name="status">Status</string>
+    <string name="gender">Gender</string>
+    <string name="origin">Origin</string>
+    <string name="location">Location</string>
+    <string name="episodes_count">Episodes Count</string>
+    <string name="created">Created</string>
+</resources>
